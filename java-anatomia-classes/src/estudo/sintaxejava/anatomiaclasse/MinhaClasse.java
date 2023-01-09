@@ -16,7 +16,7 @@ public class MinhaClasse {
 	int longo = 1;
 //------------------------------------------------------------------------------------------------		
 	// Declarando uma variável
-
+	
 	// Estrutura
 	Tipo NomeBemDefinido = Atribuição (Opcional em alguns casos)
 		
@@ -30,7 +30,7 @@ public class MinhaClasse {
 		anoFabricação = 2018; // alterando o valor de uma variável existente.
 //-------------------------------------------------------------------------------------------------
 	// Declarando um método
-
+		
 	// Estrutura
 	TipoRetorno NomeObjetivoNoInfinitivo Parametros(s)
 		
