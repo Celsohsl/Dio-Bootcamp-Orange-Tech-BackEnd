@@ -56,6 +56,7 @@ public class Operadores {
 		numero = numero * -1;
 		
 		System.out.println(numero);
+		
 	}
 
 }
