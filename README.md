@@ -6,4 +6,6 @@
 
 <h2 align ="center">Projeto de Estudo sobre a linguagem Java</h2>
 
-<h2>📋 Conteúdo em desenvolvimento:</h2>
+<h2>📝 Conteúdo de estudo</h2>
+
+<h2>✏️ Aprendendo a Sintaxe Java</h2>
