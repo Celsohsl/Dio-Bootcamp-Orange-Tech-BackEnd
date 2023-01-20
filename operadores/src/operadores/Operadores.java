@@ -4,7 +4,7 @@ public class Operadores {
 
 	public static void main(String[] args) {
 		
-		/* Operador de atribuição, representado pelo símbolo =
+		/* Atribuição, representado pelo símbolo =
 		 * é utilizado para definir o valor inicial de uma variável ou
 		 * sobrescrever o seu valor. 
 		 */
@@ -15,7 +15,7 @@ public class Operadores {
 		boolean doadorOrgao = false;
 		Date dataNascimento = new Date();
 //-------------------------------------------------------------------------------------
-		/* Operadores aritméticos, são representados pelos símbolos +(adição),
+		/* Aritméticos, são representados pelos símbolos: +(adição),
 		 * -(subtração), *(multiplicação) e /(divisão)
 		 * é utilizado para realizar operações matemáticas entre valores numéricos,
 		 * podendo se tornar ou não uma expressão mais complexa. 
@@ -28,13 +28,13 @@ public class Operadores {
 		int modulo = 18 % 3;
 		double resultado = (20 * 13) + (20 / 4);
 		
-		/* o operador de adição(+), quando utilizado em vaiáveis do tipo texto,
-		 * realizará a concatenação de textos, ou seja vai juntar uma palavra a outra.
+		/* O operador de adição (+), quando utilizado em variáveis do tipo texto, realizará a “concatenação de textos”.
 		 */
 		String nomeCompleto = "Linguagem" + "Java";
+		
 //-----------------------------------------------------------------------------------------
 		/* Operadores Unários, é aplicado juntamente com um operador aritmético, eles
-		 * realizam tebalhos basicos como incrementar decrementar, inverter valores 
+		 * realizam trabalhos basicos como incrementar decrementar, inverter valores 
 		 * numéricos e booleanos.
 		 * + operador unário de valor positivo, números são positivos sem esse operador.
 		 * - operador unário de valor negativo, nega um número ou expressão aritmética.
@@ -43,19 +43,79 @@ public class Operadores {
 		 * ! operador unário lógico de negação, nega o valor de uma expressão booleana.
 		 */
 		
+		
 		int numero = 5;
 		
 		numero = - numero;
 		
-//		System.out.println(- numero);
+		//Imprimindo o numero negativo
+		System.out.println(- numero);
 		
-		numero = + numero;
-		
-//		System.out.println(numero);
-		
-		numero = numero * -1;
-		
+		//incrementando numero em mais 1 numero, imprime 6
+		numero ++;
 		System.out.println(numero);
+		
+		//incrementando numero em mais 1 numero, imprime 7
+		System.out.println(numero ++);// errado não está certo
+		
+		System.out.println(numero);// agora sim, numero virou 7
+		
+		//ordem de precedencia conta aqui
+		System.out.println(++numero);
+		
+		boolean verdadeiro = true;
+		
+		System.out.println("Inverteu " + !verdadeiro);
+		
+//-----------------------------------------------------------------------------------------
+		/*O operador ternário é representado pelos símbolos "?" e ":" 
+		 * utilizados na seguinte estrutura de sintaxe:
+		 * <Expressão Condicional>`` ?``<Caso condição seja true>``: ``<Caso condição seja false>
+		 */
+		
+		int a, b;
+		
+		a = 5;
+		b = 6;
+		
+		String resultado = "";
+		if(a==b);
+			resultado = "verdadeiro";
+		else
+			resultado = "falso";
+		
+		System.out.println(resultadoDois);
+		
+		//Utilizando o operador condicional ternário.
+		
+		String resultadoDois = a == b ? "verdadeiro" : "falso";
+		
+		System.out.println(resultadoDois);
+		
+//-----------------------------------------------------------------------------------------
+		/*Relacionais, avaliam a relação entre duas variáveis ou expressões.
+		 * == Quando desejamos verificar se uma variável é IGUAL A outra.
+		 * != Quando desejamos verificar se uma variável é DIFERENTE da outra.
+		 * > Quando desejamos verificar se uma variável é MAIOR QUE a outra.
+		 * >= Quando desejamos verificar se uma variável é MAIOR OU IGUAL a outra.
+		 * < Quando desejamos verificar se uma variável é MENOR QUE outra.
+		 * <= Quando desejamos verificar se uma variável é MENOR OU IGUAL a outra.
+		*/
+		
+		int numero1 = 1;
+		int numero2 = 2;
+		
+		boolean simNao = numero1 == numero2;
+		
+		System.out.println("numeroUm é igual a numeroDois? " + simNao);
+		
+		simNao = numero1 != numero2;
+		
+		System.out.println("numeroUm é diferente de numeroDois? " + simNao);
+		
+		simNao = numero1 > numero2;
+		
+		System.out.println("numeroUm é maior que numeroDois? " + simNao);
 		
 	}
 
