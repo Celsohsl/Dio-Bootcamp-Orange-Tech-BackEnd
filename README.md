@@ -9,14 +9,58 @@
 <h2>📋 Conteúdo</h2>
 <h3>🔹 Aprendendo a Sintaxe Java:</h3>
 
-- Anatomia das classes
-- Tipos e Variáveis
-- Operadores
-- Métodos
-- Escopo
-- Palavras reservadas
+- Anatomia das classes:
+
+      - Estrutura inicial
+      - Padrão de nomenclatura
+      - Declarando variáveis e métodos
+      - Identação
+      - Organizando arquivos 
+      - Java Beans
+- Tipos e Variáveis:
+
+      - Numéricos inteiros e decimais
+      - Tipos Lógicos
+      - Caracteres
+      - Objetos
+      - Diferença entre variáveis e constantes 
+- Operadores:
+
+      - Operadores aritméticos
+      - Operadores unários
+      - Operadores relacionais
+      - Operadores lógicos
+      - Operador ternário
+- Métodos:
+
+      - Qual a proposta principal do método?
+      - Qual o tipo de retorno esperado após executar o método?
+      - Quais os parâmetros serão necessários para a execução do método?
+      - O método possui o risco de apresentar alguma exceção
+      - Qual a visibilidade do método? 
+- Escopo:
+
+      - Escopo de classe
+      - Escopo de método
+      - Escopo de fluxo
+- Palavras reservadas:
+
+      - Tipos primitivos
+      - Classificações
+      - Escopo de uso
+      - Palavras "opostas"
 - Documentação
+
+      - Documentação oficial
+      - Tags
+      - Tipos de comentários
+      - Java Doc
 - Terminal e argumentos
+
+      - main args
+      - Scanner
+      - Execução via IDE
+      - Execução via prompt de comando
 
 ---
 
