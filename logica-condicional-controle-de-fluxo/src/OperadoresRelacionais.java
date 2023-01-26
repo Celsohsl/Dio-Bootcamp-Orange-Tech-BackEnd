@@ -1,7 +1,7 @@
 
 public class OperadoresRelacionais {
 
-	//Classe de exemplo sobre operadores relacionais, controle de fluxo e blocos.
+	//Classe de exemplo sobre operadores lógicos e relacionais, controle de fluxo e blocos.
 	
 	public static void main(String[] args) {
 		
