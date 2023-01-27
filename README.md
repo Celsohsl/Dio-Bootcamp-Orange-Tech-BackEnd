@@ -7,7 +7,7 @@
 <h2 align ="center">Projeto de Estudo sobre a linguagem Java</h2>
 
 <h2>📋 Conteúdos</h2>
-<h3>🔹 Aprendendo a Sintaxe Java:</h3>
+<h3>🔹 Aprendendo a Sintaxe Java</h3>
 
 - **Anatomia das classes :** - Estrutura inicial - Padrão de nomenclatura - Declarando variáveis e métodos - Identação - Organizando arquivos - Java Beans.
 - **Tipos e variáveis :** - Numéricos inteiros e decimais - Tipos Lógicos - Caracteres - Objetos - Diferença entre variáveis e constantes. 
@@ -18,7 +18,7 @@
 - **Documentação :** - Documentação oficial - Tags - Tipos de comentários - Java Doc.
 - **Terminal e argumentos :** - main args - Scanner - Execução via IDE - Execução via prompt de comando.
 #
-<h3>🔹 Lógica Condicional e Controle de Fluxos em Java:</h3>
+<h3>🔹 Lógica Condicional e Controle de Fluxos em Java</h3>
 
 - **Operadores relacionais :** - O que são operadores relacionais - Utilizando operadores relacionais.
 - **Operadores lógicos :** O que são operadores lógicos - Utilizando operadores lógicos. 
