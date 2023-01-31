@@ -27,12 +27,12 @@
 #
 <h3>🔹 Estruturas de Repetição e Arrays em Java</h3>
 
-- [x] **Comando while :** 
-- [x] **Comando do-while :** 
-- [x] **Comando for :** 
-- [x] **Controle de repetição, break e continue :**
-- [x] **Arrays :**
-- [x] **Comando for-each :**
+- [x] **Comando while** 
+- [x] **Comando do-while** 
+- [x] **Comando for** 
+- [x] **Controle de repetição, break e continue**
+- [x] **Arrays**
+- [x] **Comando for-each**
 
 ---
 
@@ -45,6 +45,7 @@
 <h2>ℹ️ Links Úteis:</h2>
 
 - Java-Básico [GitBook](https://glysns.gitbook.io/java-basico/)
+- Estruturas de Repetição e Arrays em Java [Loops & Arrays](https://github.com/cami-la/loops-e-arrays) by [cami-la](https://github.com/cami-la)
 - Digital Innovation One: [Dio](https://www.dio.me/)
 
 #
