@@ -6,8 +6,8 @@
 
 <h2 align ="center">Projeto de Estudo sobre a linguagem Java</h2>
 
-<h2>📋 Conteúdos</h2>
-<h3 align ="center">🔹 Aprendendo a Sintaxe Java</h3>
+<h2 align ="center">📋 Conteúdos</h2>
+<h3>🔹 Aprendendo a Sintaxe Java</h3>
 
 - [x] **Anatomia das classes :** - Estrutura inicial - Padrão de nomenclatura - Declarando variáveis e métodos - Identação - Organizando arquivos - Java Beans.
 - [x] **Tipos e variáveis :** - Numéricos inteiros e decimais - Tipos Lógicos - Caracteres - Objetos - Diferença entre variáveis e constantes. 
@@ -36,7 +36,14 @@
 
 ---
 
-<h3🎯 align="center">Desafios Básicos de Código Java</h3>
+<h2 align="center">🎯 Desafios de Algoritmos Basicos Java</h2> 
+
+<strong>✍️ Mesada do Sobrinho:</strong> Criar um programa que com as entradas do seu sobrinho vai calcular automaticamente a quantidade de dinheiro que ele terá em X meses. A entrada será o número de meses que o sobrinho polpará o dinheiro. A saída deve ser o valor que o sobrinho terá ao final dos meses.
+
+<strong>✍️ Download de Pacotes:</strong> Fazer um contador 10 – 1. Então a escala será 1 = 10%, 2 = 20%, 3 = 30% e etc.
+Para cada 10% de download, o programa deve printar, em sequência e sem espaços, uma barra. A entrada será um número que representará a porcentagem; A saída serão as barras sem espaços entre elas.
+
+---
 
 <h2>💻 Tecnologias Utilizadas:</h2>
 
