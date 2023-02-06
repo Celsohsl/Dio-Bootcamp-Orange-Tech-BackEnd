@@ -48,6 +48,7 @@ Para cada 10% de download, o programa deve printar, em sequência e sem espaços
 <strong>✍️ Lojinha de Doces:</strong> Para aumentar as vendas o dono resolveu colocar uma máquina onde os clientes, principalmente as crianças que estão muito acostumadas com a tecnologia, poderiam colocar suas moedas e receber dois doces aleatórios. Cada 1 real irá render 2 doces aleatórios. A entrada será a quantidade de dinheiro que cada cliente, um por vez, possui. A saída deverá ser a quantidade de doces que cada cliente conseguiu obter.
 
 <strong>✍️ Industria da Multa:</strong> Em uma cidade extremamente movimentada a prefeitura não deu conta de enviar as multas necessárias para quem ultrapassasse a velocidade permitida de 60km/h. O seu papel será o de criar um programa que verifique os dados recebidos da câmera e envie uma mensagem dizendo se o motorista será multado ou não. A entrada vai ser a velocidade do motorista. A saída será uma mensagem no console dizendo se o motorista foi multado ou não.
+
 ---
 
 <h2>💻 Tecnologias Utilizadas:</h2>
