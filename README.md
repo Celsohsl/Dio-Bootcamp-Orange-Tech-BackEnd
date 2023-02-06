@@ -38,7 +38,10 @@
 
 <h2 align="center">🎯 Desafios de Algoritmos Basicos Java</h2> 
 
-- <strong>Mesada do Sobrinho:</strong> Criar um programa que com as entradas do seu sobrinho vai calcular automaticamente a quantidade de dinheiro que ele terá em X meses. A entrada será o número de meses que o sobrinho polpará o dinheiro. A saída deve ser o valor que o sobrinho terá ao final dos meses.
+<strong>✍️ Mesada do Sobrinho:</strong> Criar um programa que com as entradas do seu sobrinho vai calcular automaticamente a quantidade de dinheiro que ele terá em X meses. A entrada será o número de meses que o sobrinho polpará o dinheiro. A saída deve ser o valor que o sobrinho terá ao final dos meses.
+
+<strong>✍️ Download de Pacotes:</strong> Fazer um contador 10 – 1. Então a escala será 1 = 10%, 2 = 20%, 3 = 30% e etc.
+Para cada 10% de download, o programa deve printar, em sequência e sem espaços, uma barra. A entrada será um número que representará a porcentagem; A saída serão as barras sem espaços entre elas.
 
 ---
 
