@@ -38,16 +38,16 @@
 
 <h2 align="center">🎯 Desafios de Algoritmos Basicos Java</h2> 
 
-<strong>✍️ Mesada do Sobrinho:</strong> Criar um programa que com as entradas do seu sobrinho vai calcular automaticamente a quantidade de dinheiro que ele terá em X meses. A entrada será o número de meses que o sobrinho polpará o dinheiro. A saída deve ser o valor que o sobrinho terá ao final dos meses.
+<strong>🤑 Mesada do Sobrinho:</strong> Criar um programa que com as entradas do seu sobrinho vai calcular automaticamente a quantidade de dinheiro que ele terá em X meses. A entrada será o número de meses que o sobrinho polpará o dinheiro. A saída deve ser o valor que o sobrinho terá ao final dos meses.
 
-<strong>✍️ Download de Pacotes:</strong> Fazer um contador 10 – 1. Então a escala será 1 = 10%, 2 = 20%, 3 = 30% e etc.
+<strong>📡 Download de Pacotes:</strong> Fazer um contador 10 – 1. Então a escala será 1 = 10%, 2 = 20%, 3 = 30% e etc.
 Para cada 10% de download, o programa deve printar, em sequência e sem espaços, uma barra. A entrada será um número que representará a porcentagem; A saída serão as barras sem espaços entre elas.
 
-<strong>✍️ Leitura da Gertrudes:</strong> Sua tia Gertrudes é uma leitora assídua. E ela gostaria de ter um aplicativo que dissesse para ela, de acordo com o número de páginas de um livro, quanto tempo ela levaria para ler lendo apenas 3 páginas por dia? A entrada será o número de páginas de um determinado livro; A saída deverá ser quanto tempo ela vai levar para ler esse livro.
+<strong>📚 Leitura da Gertrudes:</strong> Sua tia Gertrudes é uma leitora assídua. E ela gostaria de ter um aplicativo que dissesse para ela, de acordo com o número de páginas de um livro, quanto tempo ela levaria para ler lendo apenas 3 páginas por dia? A entrada será o número de páginas de um determinado livro; A saída deverá ser quanto tempo ela vai levar para ler esse livro.
 
-<strong>✍️ Lojinha de Doces:</strong> Para aumentar as vendas o dono resolveu colocar uma máquina onde os clientes, principalmente as crianças que estão muito acostumadas com a tecnologia, poderiam colocar suas moedas e receber dois doces aleatórios. Cada 1 real irá render 2 doces aleatórios. A entrada será a quantidade de dinheiro que cada cliente, um por vez, possui. A saída deverá ser a quantidade de doces que cada cliente conseguiu obter.
+<strong>🍭 Lojinha de Doces:</strong> Para aumentar as vendas o dono resolveu colocar uma máquina onde os clientes, principalmente as crianças que estão muito acostumadas com a tecnologia, poderiam colocar suas moedas e receber dois doces aleatórios. Cada 1 real irá render 2 doces aleatórios. A entrada será a quantidade de dinheiro que cada cliente, um por vez, possui. A saída deverá ser a quantidade de doces que cada cliente conseguiu obter.
 
-<strong>✍️ Industria da Multa:</strong> Em uma cidade extremamente movimentada a prefeitura não deu conta de enviar as multas necessárias para quem ultrapassasse a velocidade permitida de 60km/h. O seu papel será o de criar um programa que verifique os dados recebidos da câmera e envie uma mensagem dizendo se o motorista será multado ou não. A entrada vai ser a velocidade do motorista. A saída será uma mensagem no console dizendo se o motorista foi multado ou não.
+<strong>🚦 Industria da Multa:</strong> Em uma cidade extremamente movimentada a prefeitura não deu conta de enviar as multas necessárias para quem ultrapassasse a velocidade permitida de 60km/h. O seu papel será o de criar um programa que verifique os dados recebidos da câmera e envie uma mensagem dizendo se o motorista será multado ou não. A entrada vai ser a velocidade do motorista. A saída será uma mensagem no console dizendo se o motorista foi multado ou não.
 
 ---
 
