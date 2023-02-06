@@ -43,11 +43,8 @@
 <strong>✍️ Download de Pacotes:</strong> Fazer um contador 10 – 1. Então a escala será 1 = 10%, 2 = 20%, 3 = 30% e etc.
 Para cada 10% de download, o programa deve printar, em sequência e sem espaços, uma barra. A entrada será um número que representará a porcentagem; A saída serão as barras sem espaços entre elas.
 
-<<<<<<< HEAD
 <strong>✍️ Leitura da Gertrudes:</strong> Sua tia Gertrudes é uma leitora assídua. E ela gostaria de ter um aplicativo que dissesse para ela, de acordo com o número de páginas de um livro, quanto tempo ela levaria para ler lendo apenas 3 páginas por dia? A entrada será o número de páginas de um determinado livro; A saída deverá ser quanto tempo ela vai levar para ler esse livro.
 
-=======
->>>>>>> 93878a489de97a5960ba19c51c7949576460c4f5
 ---
 
 <h2>💻 Tecnologias Utilizadas:</h2>
