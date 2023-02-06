@@ -7,7 +7,7 @@
 <h2 align ="center">Projeto de Estudo sobre a linguagem Java</h2>
 
 <h2>📋 Conteúdos</h2>
-<h3>🔹 Aprendendo a Sintaxe Java</h3>
+<h3 align ="center">🔹 Aprendendo a Sintaxe Java</h3>
 
 - [x] **Anatomia das classes :** - Estrutura inicial - Padrão de nomenclatura - Declarando variáveis e métodos - Identação - Organizando arquivos - Java Beans.
 - [x] **Tipos e variáveis :** - Numéricos inteiros e decimais - Tipos Lógicos - Caracteres - Objetos - Diferença entre variáveis e constantes. 
@@ -35,6 +35,8 @@
 - [x] **Comando for-each**
 
 ---
+
+<h3🎯 align="center">Desafios Básicos de Código Java</h3>
 
 <h2>💻 Tecnologias Utilizadas:</h2>
 
