@@ -3,7 +3,15 @@ package heranca.associacao.exercicio.poo;
 public class RodarAplicacao {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		Funcionario funcionario = new Funcionario();
+		
+		Funcionario gerente = new Gerente();
+		Funcionario vendedor = new Vendedor();
+		Funcionario faxineiro = new Faxineiro();
+		
+		//Gerente gerente = new Funcionario();
+		Vendedor vendedor_ = (Vendedor) new Funcionario();
 
 	}
 
