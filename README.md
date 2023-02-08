@@ -6,8 +6,10 @@
 
 <h2 align ="center">Projeto de Estudo sobre a linguagem Java</h2>
 
-<h2 align ="center">📋 Conteúdos</h2>
-<h3>🔹 Aprendendo a Sintaxe Java</h3>
+<h3 align ="center">📝 CONTEÚDOS:</h3>
+<h3 align ="center">🔰 Conhecendo a Linguagem Java :</h3>
+
+<h3>🔶 Aprendendo a Sintaxe Java</h3>
 
 - [x] **Anatomia das classes :** - Estrutura inicial - Padrão de nomenclatura - Declarando variáveis e métodos - Identação - Organizando arquivos - Java Beans.
 - [x] **Tipos e variáveis :** - Numéricos inteiros e decimais - Tipos Lógicos - Caracteres - Objetos - Diferença entre variáveis e constantes. 
@@ -18,14 +20,14 @@
 - [x] **Documentação :** - Documentação oficial - Tags - Tipos de comentários - Java Doc.
 - [x] **Terminal e argumentos :** - main args - Scanner - Execução via IDE - Execução via prompt de comando.
 #
-<h3>🔹 Lógica Condicional e Controle de Fluxos em Java</h3>
+<h3>🔶 Lógica Condicional e Controle de Fluxos em Java</h3>
 
 - [x] **Operadores relacionais :** - O que são operadores relacionais - Utilizando operadores relacionais.
 - [x] **Operadores lógicos :** O que são operadores lógicos - Utilizando operadores lógicos. 
 - [x] **Controle de fluxo :** O que é controle de fluxo - Criando estruturas de controle de fluxo.
 - [x] **Blocos :** - Blocos, tipos e uso.
 #
-<h3>🔹 Estruturas de Repetição e Arrays em Java</h3>
+<h3>🔶 Estruturas de Repetição e Arrays em Java</h3>
 
 - [x] **Comando while** 
 - [x] **Comando do-while** 
@@ -50,6 +52,14 @@ Para cada 10% de download, o programa deve printar, em sequência e sem espaços
 <strong>🚦 Industria da Multa:</strong> Em uma cidade extremamente movimentada a prefeitura não deu conta de enviar as multas necessárias para quem ultrapassasse a velocidade permitida de 60km/h. O seu papel será o de criar um programa que verifique os dados recebidos da câmera e envie uma mensagem dizendo se o motorista será multado ou não. A entrada vai ser a velocidade do motorista. A saída será uma mensagem no console dizendo se o motorista foi multado ou não.
 
 ---
+<h3 align ="center">📝 CONTEÚDOS:</h3>
+<h3 align ="center">☕ Programação Orientada a Objetos Com Java :</h3>
+
+<h3>🔶 Programação Orientada a Objetos</h3>
+
+- **Por que usar? :** Programação estruturada vs programação orientada a objetos; Vantagens da POO.
+- **Fundamentos :** Definição de POO; Abstração; Reuso; Encapsulamento.
+- **Estrutura Básica da POO :** Classe; Atributo; Método; Objeto e Mensagem. 
 
 <h2>💻 Tecnologias Utilizadas:</h2>
 
