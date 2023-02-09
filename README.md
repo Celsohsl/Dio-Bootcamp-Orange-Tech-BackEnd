@@ -55,11 +55,13 @@ Para cada 10% de download, o programa deve printar, em sequência e sem espaços
 <h3 align ="center">📝 CONTEÚDOS:</h3>
 <h3 align ="center">☕ Programação Orientada a Objetos Com Java :</h3>
 
-<h3>🔶 Programação Orientada a Objetos</h3>
+<h3>🔷 Programação Orientada a Objetos</h3>
 
 - **Por que usar? :** Programação estruturada vs programação orientada a objetos; Vantagens da POO.
-- **Fundamentos :** Definição de POO; Abstração; Reuso; Encapsulamento.
-- **Estrutura Básica da POO :** Classe; Atributo; Método; Objeto e Mensagem. 
+- **Fundamentos :** Definição de POO; Abstração; Reuso; Encapsulamento; Exercício.
+- **Estrutura Básica da POO :** Classe; Atributo; Método; Objeto e Mensagem; Exercício. 
+- **Herança, Associação, Interface :** Herança Conceito, Tipos, Upcast, Downcast, Polimorfismo, Sobrescrita;  -  Associação: Conceito, Tipos;  - Inteface: Conceito; Exercício.
+- **Organização de Pacotes Visibilidade :** Conceitos, Exercícios.
 
 <h2>💻 Tecnologias Utilizadas:</h2>
 
