@@ -60,14 +60,21 @@ Para cada 10% de download, o programa deve printar, em sequência e sem espaços
 - **Por que usar? :** Programação estruturada vs programação orientada a objetos; Vantagens da POO.
 - **Fundamentos :** Definição de POO; Abstração; Reuso; Encapsulamento; Exercício.
 - **Estrutura Básica da POO :** Classe; Atributo; Método; Objeto e Mensagem; Exercício. 
-- **Herança, Associação, Interface :** Herança Conceito, Tipos, Upcast, Downcast, Polimorfismo, Sobrescrita;  -  Associação: Conceito, Tipos;  - Inteface: Conceito; Exercício.
+- **Herança, Associação, Interface :** Herança Conceito; Tipos; Upcast; Downcast; Polimorfismo; Sobrescrita; Associação: Conceito; Tipos; Inteface: Conceito; Exercício.
 - **Organização de Pacotes Visibilidade :** Conceitos, Exercícios.
+#
+<h3>🔷 Trabalhando com Collections Java</h3>
 
+- **Lists :** Coleções com iterações ordenadas; Conhecendo os métodos List; Ordenação de elementos em uma coleção List.
+- **Set :** Coleções com singularidade; Conhecendo os métodos Set; Reuso; Ordenação de elementos em uma coleção Set.
+- **Map :** Coleções de pares; Conhecendo os métodos Map; Ordenação Map. 
+- **Stream :** Visão geral: Stream API; Principais operações Stream API.
+
+---
 <h2>💻 Tecnologias Utilizadas:</h2>
 
 <img align="center" src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=blue"> <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-
----
+#
 
 <h2>ℹ️ Links Úteis:</h2>
 
