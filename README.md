@@ -79,7 +79,7 @@ Para cada 10% de download, o programa deve printar, em sequência e sem espaços
 <h2>ℹ️ Links Úteis:</h2>
 
 - Java-Básico [GitBook](https://glysns.gitbook.io/java-basico/) | [trilha-java-basico](https://github.com/digitalinnovationone/trilha-java-basico) by [glysns](https://github.com/glysns)
-- Estruturas de Repetição e Arrays em Java [Loops & Arrays](https://github.com/cami-la/loops-e-arrays) by [cami-la](https://github.com/cami-la)
+- Estruturas de Repetição e Arrays em Java [Loops & Arrays](https://github.com/cami-la/loops-e-arrays) | Trabalhando com Collections Java [Collections Java](https://github.com/cami-la/curso-dio-intro-collections) by [cami-la](https://github.com/cami-la)
 - Digital Innovation One: [Dio](https://www.dio.me/) | [Dio-github](https://github.com/digitalinnovationone)
 
 #
