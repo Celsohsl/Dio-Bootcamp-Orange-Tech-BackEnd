@@ -75,6 +75,12 @@ Para cada 10% de download, o programa deve printar, em sequência e sem espaços
 - **Pilha de Execução de um Programa Java** 
 - **Debugging na IDE IntelliJ** 
 - **Debugging na IDE Eclipse** 
+#
+<h3>🔷 Tratamento de Exceções em Java</h3>
+
+- **Unchecked exception** 
+- **Checked exception** 
+- **Exception Personalizada**
 
 ---
 <h2>💻 Tecnologias Utilizadas:</h2>
@@ -85,7 +91,7 @@ Para cada 10% de download, o programa deve printar, em sequência e sem espaços
 <h2>ℹ️ Links Úteis:</h2>
 
 - Java-Básico [GitBook](https://glysns.gitbook.io/java-basico/) | [trilha-java-basico](https://github.com/digitalinnovationone/trilha-java-basico) by [glysns](https://github.com/glysns)
-- Estruturas de Repetição e Arrays em Java [Loops & Arrays](https://github.com/cami-la/loops-e-arrays) | Trabalhando com Collections Java [Collections Java](https://github.com/cami-la/curso-dio-intro-collections) by [cami-la](https://github.com/cami-la)
+- Estruturas de Repetição e Arrays em Java [Loops & Arrays](https://github.com/cami-la/loops-e-arrays) | Trabalhando com Collections Java [Collections Java](https://github.com/cami-la/curso-dio-intro-collections) | Debugging Java [debugging-java](https://github.com/cami-la/debugging-java) | Tratamento de Exceções em Java [exceptions-java](https://github.com/cami-la/exceptions-java) by [cami-la](https://github.com/cami-la)
 - Digital Innovation One: [Dio](https://www.dio.me/) | [Dio-github](https://github.com/digitalinnovationone)
 
 #
