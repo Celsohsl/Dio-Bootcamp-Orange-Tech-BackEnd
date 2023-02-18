@@ -69,6 +69,12 @@ Para cada 10% de download, o programa deve printar, em sequência e sem espaços
 - **Set :** Coleções com singularidade; Conhecendo os métodos Set; Reuso; Ordenação de elementos em uma coleção Set.
 - **Map :** Coleções de pares; Conhecendo os métodos Map; Ordenação Map. 
 - **Stream :** Visão geral: Stream API; Principais operações Stream API.
+#
+<h3>🔷 Debugging Java</h3>
+
+- **Pilha de Execução de um Programa Java** 
+- **Debugging na IDE IntelliJ** 
+- **Debugging na IDE Eclipse** 
 
 ---
 <h2>💻 Tecnologias Utilizadas:</h2>
