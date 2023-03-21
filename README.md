@@ -7,7 +7,7 @@
 <h2 align ="center">Projeto de Estudo sobre a linguagem Java</h2>
 
 <h3 align ="center">📝 CONTEÚDOS:</h3>
-<h3 align ="center">🔰 Conhecendo a Linguagem Java :</h3>
+<h2 align ="center">🔰 Conhecendo a Linguagem Java :</h2>
 
 <h3>🔶 Aprendendo a Sintaxe Java</h3>
 
@@ -52,8 +52,8 @@ Para cada 10% de download, o programa deve printar, em sequência e sem espaços
 <strong>🚦 Industria da Multa:</strong> Em uma cidade extremamente movimentada a prefeitura não deu conta de enviar as multas necessárias para quem ultrapassasse a velocidade permitida de 60km/h. O seu papel será o de criar um programa que verifique os dados recebidos da câmera e envie uma mensagem dizendo se o motorista será multado ou não. A entrada vai ser a velocidade do motorista. A saída será uma mensagem no console dizendo se o motorista foi multado ou não.
 
 ---
-<h3 align ="center">📝 CONTEÚDOS:</h3>
-<h3 align ="center">☕ Programação Orientada a Objetos Com Java :</h3>
+
+<h2 align ="center">☕ Programação Orientada a Objetos Com Java :</h2>
 
 <h3>🔷 Programação Orientada a Objetos</h3>
 
